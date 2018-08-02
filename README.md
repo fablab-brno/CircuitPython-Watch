@@ -35,3 +35,6 @@ Button A is "Time button", when is pressed, it will show hours by blue color on 
 Button B is  "Mode button", when is pressed, it will increase counter by 1 and it will schow predefined animation from main.py .
 
 Function is showed in video bellow, in loop with all default animations. 
+<p>
+<a href="https://imgflip.com/gif/2f5eqi"><img src="https://i.imgflip.com/2f5eqi.gif" title="made at imgflip.com"/></a>
+</p>
